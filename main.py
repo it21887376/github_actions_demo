@@ -10,7 +10,7 @@ def main():
     result = num1 + num2
 
     # Print the result of the addition
-    print(f"Numerical Addition: {num1} + {num2} = {result}")
+    print(f"Numerical Addition: {num3} + {num2} = {result}")
 
 if __name__ == "__main__":
     main()
